@@ -1,0 +1,24 @@
+{
+  "name": "nnp-project-server",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000N\u0000P\u0000-\u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000-\u0000s\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "star": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galilia/NNP-project-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Galilia/NNP-project-server/issues"
+  },
+  "homepage": "https://github.com/Galilia/NNP-project-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.3"
+  }
+}
